@@ -1,5 +1,6 @@
-package denemeler;
-//EBubekir durukal
+//Ebubekir Durukal - July 2018
+//This file implements basic feed forward neural network in Java
+
 import java.lang.Math;
 
 public class main {
